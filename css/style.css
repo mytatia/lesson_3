@@ -1,0 +1,28 @@
+h2,
+h3 {
+  color: rgb(214, 42, 76);
+}
+
+a {
+  color: rgb(12, 113, 133);
+}
+
+p.bio {
+  color: rgb(15, 33, 233);
+}
+
+.anti-war {
+  color: rgb(123, 170, 47);
+}
+
+#naive-art {
+  color: rgb(16, 146, 232);
+}
+
+.quote,
+.main-quote {
+  color: rgb(195, 108, 9);
+}
+#style ~ p {
+  color: rgb(234, 10, 39);
+}
